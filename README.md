@@ -1,14 +1,4 @@
 # php-webshell
-a basic and simple php webshell
-<pre>
-##########################################################################################################
-		        .__                         /\               ___.          .__           .__  .__
-_____________  ______ |  |__   _______  ______  __)/ __  _  __ ____\_ |__   _____|  |__   ____ |  | |  |
-\___   /\__  \ \____ \|  |  \ /  _ \  \/  /\  \/  /  \ \/ \/ // __ \| __ \ /  ___/  |  \_/ __ \|  | |  |
- /    /  / __ \|  |_> >   Y  (  <_> >    <  >    <    \     /\  ___/| \_\ \\___ \|   Y  \  ___/|  |_|  |__
-/_____ \(____  /   __/|___|  /\____/__/\_ \/__/\_ \    \/\_/  \___  >___  /____  >___|  /\___  >____/____/
-      \/     \/|__|        \/            \/      \/               \/    \/     \/     \/     \/
-
-##########################################################################################################
-</pre>
-<img src="https://github.com/zaphoxx/php-webshell/blob/master/webshell_screenshot.png">Screenshot</img>
+<p>a basic and simple php webshell</p>
+<h4>see Screenshot below</h4>
+<img aling='center' src="https://github.com/zaphoxx/php-webshell/blob/master/webshell_screenshot.png">Screenshot</img>
