@@ -1,6 +1,6 @@
 <html>
-<h1>webshell</h1>
-<form id="webshell" action="">
+<h1>ZAPHOXX WEBSHELL</h1>
+<form id="zwebshell" action="">
 	<input id="command" type="text" value="" name="command"/>
 	<input id="button" type="submit" value="Submit"/>
 </form>
